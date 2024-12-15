@@ -1,10 +1,6 @@
 # rag_langchain_project
 A Retrieval Augmented Generation (RAG) system leveraging LangChain and Chroma DB for efficient querying of Markdown documents, enhanced by OpenAI embeddings for accurate and context-aware responses.
 
-# Retrieval Augmented Generation (RAG) System
-
-This project implements a Retrieval Augmented Generation (RAG) system using LangChain and Chroma DB. The system enables efficient querying of Markdown documents, providing contextually relevant and accurate responses by leveraging OpenAI's embeddings for semantic understanding.
-
 ## Features
 
 - **Environment Setup**: 
